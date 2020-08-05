@@ -1,0 +1,135 @@
+body {
+  text-align: center;
+  font-family: "Montserrat";
+}
+
+section{
+  padding: 4%  5%;
+}
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-weight:900;
+  color:#79d70f;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+h5{
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+hr{
+  border:none;
+  border-top:10px dotted gray;
+  width:10%;
+  margin: 0 auto 6%;
+}
+
+
+/* Navigation */
+.nav-item{
+  padding:2px 25px;
+}
+
+.navbar a:hover{
+  color: #a8df65 !important;
+}
+i{
+  margin:2%;
+}
+
+
+/* Profile section */
+#profile {
+  background-color: #fff;
+}
+
+.container-fluid {
+  padding: 0 5% 3%;
+}
+
+.sahil-font{
+  margin:auto 0;
+  text-shadow: 2px 0 #232931;
+}
+.sahil-img{
+  width:60%;
+  position: relative;
+  /* right:70px; */
+}
+
+
+/* Carousel Skills */
+
+
+.carousel-heading{
+  font-size:2.5rem;
+  font-weight: bold;
+}
+
+.carousel-text{
+  font-size: 2.0rem;
+  line-height: 1.5;
+}
+
+.carousel-item{
+  padding:3% 7%;
+}
+
+#skills{
+  background-color: #e8505b;
+  padding:3% 3%;
+  color:#fff;
+  margin-bottom: 10%;
+}
+
+
+.skills-heading{
+  font-family: "Montserrat";
+  color:#fff;
+  letter-spacing: 8px;
+}
+
+
+
+/* Games  Card section */
+
+#games{
+  padding:2% 5% 7%;
+}
+
+.games-heading{
+font-family: 'Press Start 2P', cursive;
+color:#000;
+}
+
+.card{
+  margin:5%;
+}
+.card a{
+  color:white;
+  text-decoration: none;
+}
+.card a:hover{
+  color:white;
+  text-decoration:underline;
+}
+
+/* Footer */
+.footer{
+  padding:5% 10% 2%;
+  background-color:#e8505b;
+}
+.footer p{
+  color:#fff;
+}
+.social-icon{
+  color:white;
+}
+.social-icon:hover{
+  color:#000;
+}
+
+#fun{
+  border: dotted 2px red;
+  margin:5% 7%;
+}
